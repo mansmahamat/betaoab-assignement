@@ -1,0 +1,22 @@
+.element {
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  cursor: pointer;
+}
+
+.number {
+  font-size: 8px;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+.name {
+  font-size: 8px;
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+}
